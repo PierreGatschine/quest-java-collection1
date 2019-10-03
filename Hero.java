@@ -1,6 +1,10 @@
-public class Hero {
+package collection01;
 
-    // attributs
+
+
+public class Hero {
+	
+	 // attributs
     private String name;
     private int age;
 
@@ -27,4 +31,5 @@ public class Hero {
     public void setAge(int age) {
         this.age = age;
     }
+
 }
