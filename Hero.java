@@ -3,8 +3,8 @@ package collection01;
 
 
 public class Hero {
-	
-	 // attributs
+
+	 // attributs variable
     private String name;
     private int age;
 
